@@ -2,12 +2,48 @@
   "reviews": [
     {
       "rating": null,
-      "reseña": "",
-      "showApiId": "",
-      "title": "",
-      "picture": "",
+      "review": "",
+      "showID": "",
+      "showTitle": "",
+      "showImage": "",
       "username": "",
       "id": ""
+    },
+    {
+      "rating": "4",
+      "review": "hola ",
+      "username": "soy yo",
+      "showID": "tt26047818",
+      "showTitle": "Anyone But You",
+      "showImage": "https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+      "id": "maeYl3V"
+    },
+    {
+      "rating": "5",
+      "review": "me encanto",
+      "username": "josep",
+      "showID": "tt26047818",
+      "showTitle": "Anyone But You",
+      "showImage": "https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+      "id": "qZyKYsT"
+    },
+    {
+      "rating": "3",
+      "review": "me encantó",
+      "username": "josepcliment",
+      "showID": "tt26047818",
+      "showTitle": "Anyone But You",
+      "showImage": "https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+      "id": "tlGigLr"
+    },
+    {
+      "rating": "3",
+      "review": "me encantó",
+      "username": "josepcliment",
+      "showID": "tt26047818",
+      "showTitle": "Anyone But You",
+      "showImage": "https://m.media-amazon.com/images/M/MV5BOTVhZGU2OWQtNDM1Ni00MzM3LTgzYjgtOTEwYzQzOWZjNTIyXkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_.jpg",
+      "id": "r_YhZmi"
     }
   ]
 }
